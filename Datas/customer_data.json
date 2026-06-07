@@ -1,0 +1,352 @@
+[
+    {
+        "Customer_ID": "C001",
+        "Age": 25,
+        "Region": "Chennai",
+        "Join_Date": "2024-12-10",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C002",
+        "Age": 48,
+        "Region": "Chennai",
+        "Join_Date": "2025-08-23",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C003",
+        "Age": 43,
+        "Region": "Bangalore",
+        "Join_Date": "2025-04-20",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C004",
+        "Age": 25,
+        "Region": "Bangalore",
+        "Join_Date": "2024-12-14",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C005",
+        "Age": 20,
+        "Region": "Mumbai",
+        "Join_Date": "2024-11-01",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C006",
+        "Age": 55,
+        "Region": "Mumbai",
+        "Join_Date": "2026-01-23",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C007",
+        "Age": 26,
+        "Region": "Hyderabad",
+        "Join_Date": "2025-08-26",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C008",
+        "Age": 29,
+        "Region": "Bangalore",
+        "Join_Date": "2024-06-19",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C009",
+        "Age": 50,
+        "Region": "Bangalore",
+        "Join_Date": "2024-09-22",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C010",
+        "Age": 51,
+        "Region": "Chennai",
+        "Join_Date": "2024-09-21",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C011",
+        "Age": 22,
+        "Region": "Hyderabad",
+        "Join_Date": "2024-09-26",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C012",
+        "Age": 32,
+        "Region": "Hyderabad",
+        "Join_Date": "2025-09-28",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C013",
+        "Age": 28,
+        "Region": "Chennai",
+        "Join_Date": "2025-04-08",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C014",
+        "Age": 59,
+        "Region": "Mumbai",
+        "Join_Date": "2026-04-13",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C015",
+        "Age": 34,
+        "Region": "Mumbai",
+        "Join_Date": "2026-03-22",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C016",
+        "Age": 49,
+        "Region": "Bangalore",
+        "Join_Date": "2025-04-02",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C017",
+        "Age": 26,
+        "Region": "Bangalore",
+        "Join_Date": "2025-03-16",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C018",
+        "Age": 34,
+        "Region": "Bangalore",
+        "Join_Date": "2026-02-07",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C019",
+        "Age": 49,
+        "Region": "Mumbai",
+        "Join_Date": "2025-09-08",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C020",
+        "Age": 44,
+        "Region": "Chennai",
+        "Join_Date": "2024-10-17",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C021",
+        "Age": 20,
+        "Region": "Mumbai",
+        "Join_Date": "2024-05-06",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C022",
+        "Age": 53,
+        "Region": "Mumbai",
+        "Join_Date": "2024-10-08",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C023",
+        "Age": 31,
+        "Region": "Mumbai",
+        "Join_Date": "2025-02-28",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C024",
+        "Age": 30,
+        "Region": "Mumbai",
+        "Join_Date": "2024-04-27",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C025",
+        "Age": 44,
+        "Region": "Hyderabad",
+        "Join_Date": "2024-03-27",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C026",
+        "Age": 26,
+        "Region": "Hyderabad",
+        "Join_Date": "2024-03-10",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C027",
+        "Age": 47,
+        "Region": "Chennai",
+        "Join_Date": "2025-01-27",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C028",
+        "Age": 38,
+        "Region": "Bangalore",
+        "Join_Date": "2025-01-12",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C029",
+        "Age": 27,
+        "Region": "Bangalore",
+        "Join_Date": "2025-12-03",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C030",
+        "Age": 31,
+        "Region": "Bangalore",
+        "Join_Date": "2026-01-12",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C031",
+        "Age": 45,
+        "Region": "Chennai",
+        "Join_Date": "2024-02-16",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C032",
+        "Age": 37,
+        "Region": "Mumbai",
+        "Join_Date": "2025-09-18",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C033",
+        "Age": 44,
+        "Region": "Bangalore",
+        "Join_Date": "2025-01-27",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C034",
+        "Age": 56,
+        "Region": "Bangalore",
+        "Join_Date": "2024-10-09",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C035",
+        "Age": 26,
+        "Region": "Mumbai",
+        "Join_Date": "2026-03-11",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C036",
+        "Age": 25,
+        "Region": "Chennai",
+        "Join_Date": "2025-09-15",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C037",
+        "Age": 50,
+        "Region": "Mumbai",
+        "Join_Date": "2026-04-27",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C038",
+        "Age": 19,
+        "Region": "Chennai",
+        "Join_Date": "2024-06-04",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C039",
+        "Age": 53,
+        "Region": "Bangalore",
+        "Join_Date": "2026-04-07",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C040",
+        "Age": 21,
+        "Region": "Chennai",
+        "Join_Date": "2024-05-19",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C041",
+        "Age": 39,
+        "Region": "Hyderabad",
+        "Join_Date": "2025-06-16",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C042",
+        "Age": 49,
+        "Region": "Mumbai",
+        "Join_Date": "2024-11-12",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C043",
+        "Age": 50,
+        "Region": "Hyderabad",
+        "Join_Date": "2026-04-08",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C044",
+        "Age": 26,
+        "Region": "Chennai",
+        "Join_Date": "2024-09-23",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C045",
+        "Age": 54,
+        "Region": "Mumbai",
+        "Join_Date": "2025-04-16",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C046",
+        "Age": 37,
+        "Region": "Mumbai",
+        "Join_Date": "2025-07-29",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C047",
+        "Age": 36,
+        "Region": "Hyderabad",
+        "Join_Date": "2024-07-10",
+        "Status": "Active"
+    },
+    {
+        "Customer_ID": "C048",
+        "Age": 29,
+        "Region": "Chennai",
+        "Join_Date": "2025-03-05",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C049",
+        "Age": 30,
+        "Region": "Mumbai",
+        "Join_Date": "2024-01-01",
+        "Status": "Inactive"
+    },
+    {
+        "Customer_ID": "C050",
+        "Age": 32,
+        "Region": "Hyderabad",
+        "Join_Date": "2025-10-28",
+        "Status": "Active"
+    }
+]

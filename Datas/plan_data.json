@@ -1,0 +1,26 @@
+[
+    {
+        "Plan_ID": "P001",
+        "Plan_Name": "Basic",
+        "Plan_Type": "Prepaid",
+        "Price": 199
+    },
+    {
+        "Plan_ID": "P002",
+        "Plan_Name": "Standard",
+        "Plan_Type": "Prepaid",
+        "Price": 299
+    },
+    {
+        "Plan_ID": "P003",
+        "Plan_Name": "Premium",
+        "Plan_Type": "Postpaid",
+        "Price": 499
+    },
+    {
+        "Plan_ID": "P004",
+        "Plan_Name": "Unlimited",
+        "Plan_Type": "Postpaid",
+        "Price": 799
+    }
+]
