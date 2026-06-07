@@ -169,6 +169,6 @@ GitHub Repository:
 ## 🙌 Author
 
 **Balasurya Sivakumar**  
-BI Executive | Power BI | SQL | Python | Gen AI Tool For DA
+BI Executive | Power BI | SQL | Python | Copilot
 
 ---
