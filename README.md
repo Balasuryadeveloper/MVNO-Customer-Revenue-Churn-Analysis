@@ -158,6 +158,12 @@ Below are some key visual insights from the analysis:
 
 <img width="369" height="298" alt="Churn Vs Tenure Analysis" src="https://github.com/user-attachments/assets/b5886c63-65f8-4b50-bafd-b19e29df2b91" />
 
+---
+
+## 📊 Presentation
+
+You can view the project presentation here:  
+👉 [Download PPT](presentation/MVNO_Churn_Analysis_Presentation.pptx)
 
 ---
 ## 🔗 Project Link
