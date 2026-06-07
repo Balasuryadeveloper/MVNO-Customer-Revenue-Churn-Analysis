@@ -122,13 +122,50 @@ To improve retention, telecom companies should focus on:
 
 ---
 
+## 📸 Sample Visualizations
+
+Below are some key visual insights from the analysis:
+
+### 🔥 Region + Price Churn Heatmap
+
+<img width="405" height="298" alt="Region and Price churn distribution" src="https://github.com/user-attachments/assets/55c4ae0c-fbfc-458d-9663-36582ace54b2" />
+
+
+---
+
+### 📊 Plan Wise Usage Analysis
+
+<img width="673" height="262" alt="Plan wise usage" src="https://github.com/user-attachments/assets/33eee453-8a9c-4d65-b335-13ca286122b8" />
+
+
+---
+
+### 📉 Usage Impact on Churn
+
+<img width="374" height="299" alt="Usage Impact in Churn" src="https://github.com/user-attachments/assets/7fcad906-04dd-47ce-a33f-483d4601e9e6" />
+
+
+---
+
+### 💰 Plan Wise Revenue Analysis
+
+<img width="573" height="260" alt="Plan wise revenue analysis" src="https://github.com/user-attachments/assets/9dfd4bb1-8c5e-4554-b78d-247612dbf252" />
+
+
+---
+
+### 📊 Churn vs Tenure Analysis
+
+<img width="369" height="298" alt="Churn Vs Tenure Analysis" src="https://github.com/user-attachments/assets/b5886c63-65f8-4b50-bafd-b19e29df2b91" />
+
+
+---
 ## 🔗 Project Link
 
 GitHub Repository:  
 👉 https://github.com/Balasuryadeveloper/MVNO-Customer-Revenue-Churn-Analysis
 
 ---
-
 ## 🙌 Author
 
 **Balasurya Sivakumar**  
