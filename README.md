@@ -163,7 +163,7 @@ Below are some key visual insights from the analysis:
 ## 📊 Presentation
 
 You can view the project presentation here:  
-👉 [Download PPT](presentation/MVNO_Churn_Analysis_Presentation.pptx)
+👉 [Download PPT](Presentation/MVNO_Churn_Analysis_Presentation.pptx)
 
 ---
 ## 🔗 Project Link
